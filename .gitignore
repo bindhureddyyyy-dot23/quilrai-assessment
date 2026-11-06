@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.db
+*.db-wal
+*.db-shm
+task4_router/data/
+.env
+.DS_Store
